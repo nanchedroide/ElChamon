@@ -2,14 +2,17 @@
 
 <ul>
     <li>
-        👋 I'm @ElChamon from Venezuela
+        👋 hola soy @ElChamon de Venezuela
     </li>
     <li>
-        🗃️ I am currently learning web development
+        🗃️ Actualmente estoy aprendiendo desarrollo de paginas web y base de datos
     </li>
     <li>
-        ✨ I have fun playing video games, listening to music and programming. 
+        ✨ Me gusta los jueguitos de computadora, leer berserk y los memes
     </li>    
+    <li>
+        💚🤍 Viva el beti manquepierda!!
+    </li>
 </ul>
 
 
