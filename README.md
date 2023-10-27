@@ -11,15 +11,8 @@
         ✨ Me gusta los jueguitos de computadora, leer berserk y los memes
     </li>    
     <li>
-        💚🤍 Viva el beti manquepierda!!
+        💚🤍 Viva er beti manquepierda!!
     </li>
 </ul>
 
-
-
-
-<!---
-ElChamon/ElChamon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
