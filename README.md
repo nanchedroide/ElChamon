@@ -7,12 +7,6 @@
     <li>
         🗃️ Actualmente estoy aprendiendo desarrollo de paginas web y base de datos
     </li>
-    <li>
-        ✨ Me gusta los jueguitos de computadora, leer berserk y los memes
-    </li>    
-    <li>
-        💚🤍 Viva er beti manquepierda!!
-    </li>
 </ul>
 
 
